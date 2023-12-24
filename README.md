@@ -1,6 +1,6 @@
 
 Assignment: Complete the Snippet
-Shubh started building a basic Python Script which goes through the entire text of a particular book and mugs up all its words. After that it asks you for a word, goes over the times when this word came in the text and gives you the complete sentence in which it was used. You may choose to ask for as many such sentences as the number of occurences of the word.
+Shikhar started building a basic Python Script which goes through the entire text of a particular book and mugs up all its words. After that it asks you for a word, goes over the times when this word came in the text and gives you the complete sentence in which it was used. You may choose to ask for as many such sentences as the number of occurences of the word.
 
 He's managed to come up with the part where he loads the file into Memory. He also managed to come up with snippets of code which could potentially do something if completed, but he has many deadlines to look after and not enough caffeine to turn to code. Can you help him?
 
